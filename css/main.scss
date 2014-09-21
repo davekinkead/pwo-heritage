@@ -1,49 +1,63 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+
+@import "bourbon/bourbon";
+
+$font-size:			18px;
+$navy:					#070760;
+$blue:					#6F829E;
+$text:					#424242;
+$mughshot-size:	150px;		
 
 
-
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+@mixin wrapper {
+	width: 700px;
+	padding: 50px 0;
+	margin: auto;
 }
 
+* { margin: 0; padding: 0; }
+
+html, body { background: white; color: $text; font-size: $font-size; font-family: 'Merriweather', serif; font-weight: 300; line-height: 1.75em;
+ }
+
+h1, h2, h3, h4, h5, h6, ul, ol, pre, p { margin-bottom: $font-size; }
+h1 { text-transform: uppercase;  line-height: 1; }
+
+a { text-decoration: none; color: $blue; }
+a:hover { color: darken($blue, 10); }
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+
+.header {
+	color: white; 
+	height: 100vh;
+	//@include linear-gradient(darken($blue, 25), $blue);
+	background: rgba(39,62,84,0.75) url(../images/rodney.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.meta { 
+	color: white;
+	width: 80%; margin: auto;
+	position: relative;
+
+	top: -40vh;
+
+	.title { font-size: 10vh; text-shadow: #111 1px 1px 5px; margin: 0; }
+	.subline { margin: 0; }
+	.mugshot { 
+		float: left; 
+		margin-right: $font-size;
+		width: $mughshot-size; height: $mughshot-size; overflow: hidden; 
+		border: white 5px solid; border-radius: 5px; }
+}
+.summary, .content { @include wrapper; }
+
+
+
+.list li { list-style: none; }
+
+
+
+footer { display: none; }
