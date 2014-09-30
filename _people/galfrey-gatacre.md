@@ -5,7 +5,8 @@ name: Galfrey George Ormond Gatacre
 lived: 1907-1983
 rank: Vice Admiral
 postnominals: RAN
-mugshot: /images/richard-peek.jpg
+mugshot: /images/galfrey-gatacre.jpg
+background: /images/rodney.jpg
 ---
 
 # Galfrey George Ormond Gatacre 
@@ -21,7 +22,7 @@ Post-war sea commands included the destroyer HMAS Arunta, in operations througho
 Gatacre’s final appointment was Flag Officer-in-Charge, East Australia Area.  Rear Admiral Gatacre retired from the Navy in 1964, following a distinguished career which highlighted his professional skills and capacity for clear thought in battle.  His intelligence and situational awareness made him a highly respected and valuable component of any warfare team, in any capacity. He recorded his career in his memoirs Report of Proceedings.
 
 
-PROFESSIONAL FORTITUDE
+# PROFESSIONAL FORTITUDE
 
 Lieutenant Commander Gatacre was the Navigator in HMS Rodney in May 1941, under the Command of Captain F.H.G. Dalrymple-Hamilton, RN. As part of the British Home Fleet, Rodney took part in the pursuit of the German battleship Bismarck which, in company with the heavy cruiser Prinz Eugen, had broken out into the North Atlantic, sinking the pride of the British fleet, the battlecruiser HMS Hood and severely damaging the new battleship HMS Prince of Wales.
 

@@ -1,11 +1,15 @@
 ---
 layout: people
-title: Richard Innes Peek
+title: Richard Peek
+name: Richard Innes Peek
+lived: 1914-2010
+rank: Vice Admiral
+postnominals: RAN
+mugshot: /images/richard-peek.jpg
+background: /images/leyte-gulf.jpg
 ---
 
 # Richard Innes Peek
-
-### Vice Admiral, RAN,  1914-2010.  
 
 Richard Peek, nicknamed ‘Peter’ as a junior officer onboard HMAS Canberra, joined the RAN in 1928.  After graduation from the RAN College he spent the next few years at sea and ashore in both Australia and the United Kingdom, developing and honing his seamanship and warfare officer skills.  Electing gunnery as his chosen warfare specialisation, he received his “Long G” qualification in the UK in 1939.
 

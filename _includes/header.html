@@ -1,15 +1,7 @@
-<header class="header">
-  <a class="site logo" href="{{ site.baseurl }}/">PWO</a>
+<header class="header" style="background-image: url({% if page.background %}{{ page.background }}{% else %}{{ '/images/storm1.jpg' }}{% endif %});" >
 
   <nav class="site-nav">
-    <a href="#" class="menu-icon"></a>
-
-    <div class="trigger">
-      {% for page in site.pages %}
-        {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
+    <a href="{{ site.baseurl }}/" class="menu-icon"><img src="/images/home.svg" /></a>
   </nav>
+
 </header>

@@ -33,8 +33,17 @@ a:hover { color: darken($blue, 10); }
 	color: white; 
 	height: 100vh;
 	//@include linear-gradient(darken($blue, 25), $blue);
-	background: rgba(39,62,84,0.75) url(../images/rodney.jpg) center center no-repeat;
+	background: rgba(39,62,84,0.75) center center no-repeat;
   background-size: cover;
+}
+
+.menu-icon { 
+	position: absolute;
+	top: 1em; left: 1em;
+	img {
+			color: white;
+			max-width: 100px; 
+	}
 }
 
 .meta { 
@@ -49,8 +58,11 @@ a:hover { color: darken($blue, 10); }
 	.mugshot { 
 		float: left; 
 		margin-right: $font-size;
-		width: $mughshot-size; height: $mughshot-size; overflow: hidden; 
+		max-width: $mughshot-size; height: auto; max-height: $mughshot-size; overflow: hidden; 
 		border: white 5px solid; border-radius: 5px; }
+}
+.meta.home {
+	top: -60vh;
 }
 .summary, .content { @include wrapper; }
 
@@ -58,6 +70,10 @@ a:hover { color: darken($blue, 10); }
 
 .list li { list-style: none; }
 
-
-
-footer { display: none; }
+footer { 
+	margin-top: 75px;
+	text-align: center; 
+	.wrapper {
+		@include wrapper;
+	}
+}
