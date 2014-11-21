@@ -31,9 +31,8 @@ a:hover { color: darken($blue, 10); }
 
 .header {
 	color: white; 
-	height: 100vh;
-	//@include linear-gradient(darken($blue, 25), $blue);
-	background: rgba(39,62,84,0.75) center center no-repeat;
+	height: 95vh;
+	background: rgba(39,62,84,0.5) center center no-repeat;
   background-size: cover;
 }
 
@@ -51,7 +50,7 @@ a:hover { color: darken($blue, 10); }
 	width: 80%; margin: auto;
 	position: relative;
 
-	top: -40vh;
+	top: -45vh;
 
 	.title { font-size: 10vh; text-shadow: #111 1px 1px 5px; margin: 0; }
 	.subline { margin: 0; }
