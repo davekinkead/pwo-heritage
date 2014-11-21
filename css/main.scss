@@ -66,9 +66,12 @@ a:hover { color: darken($blue, 10); }
 }
 .summary, .content { @include wrapper; }
 
-
-
 .list li { list-style: none; }
+
+article {
+	h1, h2, h3, h4, h5, h6 { margin: $font-size*3 0;}
+	:first-child { margin-top: 0; }
+}
 
 footer { 
 	margin-top: 75px;
