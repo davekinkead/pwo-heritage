@@ -29,11 +29,13 @@ That morning, Australia had weighed anchor and was preparing to provide fire sup
 
 In Peek’s words:
 
-> "It was a complete surprise when I saw an enemy aircraft fly across our stern, bank, then fly from our port quarter, apparently aiming at our bridge.  I called to our captain, who came over to the port side of the compass platform. We watched the kamikaze strike our tripod foremast; debris and flames, apparently from the petrol, covered the whole of the upper bridge." 
+> It was a complete surprise when I saw an enemy aircraft fly across our stern, bank, then fly from our port quarter, apparently aiming at our bridge.  I called to our captain, who came over to the port side of the compass platform. We watched the kamikaze strike our tripod foremast; debris and flames, apparently from the petrol, covered the whole of the upper bridge.
 >
-> "My next memory was of visiting our mortally wounded captain and telling him that everything was under control.”
+> My next memory was of visiting our mortally wounded captain and telling him that everything was under control.
 
-Australia sustained severe damage in this attack; the aircraft’s petrol tanks had exploded, dousing those on the bridge and causing major fires. Along with Captain Dechaineux, 30 other sailors and officers were killed. A further 64 were injured, including Lieutenant Commander Peek, who remained on duty although badly burnt.  For “skill, determination and courage” he was appointed an Officer of the British Empire in the Military Division.  
+Australia sustained severe damage in this attack; the aircraft’s petrol tanks had exploded, dousing those on the bridge and causing major fires. Along with Captain Dechaineux, 30 other sailors and officers were killed. A further 64 were injured, including Lieutenant Commander Peek, who remained on duty although badly burnt.  For “skill, determination and courage” he was appointed an Officer of the British Empire in the Military Division.
+
+![HMAS Australia after kamakazi attack](/images/leyte-gulf.jpg)
 
 Australia was subsequently withdrawn to effect repairs and restore her warfighting capabilities.  Peek played a major role in getting Australia ready before rejoining the task group in January 1945 in time for the landings in Lingayen Gulf.  Australia was again subjected to kamikaze attacks, suffering four direct hits and one near miss over the space of 4 days.  Despite damage and casualties amounting to 44 dead and 69 wounded, the cruiser remained on task, supporting the assaults with effective bombardment and counter battery fire. During this time Peek was forced to reorganise his depleted gun crews and improvise new control arrangements in order to guarantee that Australia met her assigned tasking. 
 
